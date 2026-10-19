@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,15,25&height=190&section=header&text=Suzana%20Pereira&fontSize=42&fontAlignY=38&desc=Tecnologia%20da%20Informa%C3%A7%C3%A3o%20%7C%20An%C3%A1lise%20de%20Dados%20Operacionais&descAlignY=62&descFontSize=16&theme=dark" width="100%" alt="Banner Suzana Pereira"/>
 </p>
 
-<!-- ANIMAÇÃO DE TEXTO DIGITADO (TYPING SVG) -->
+<!-- ANIMAÇÃO DE TEXTO DIGITADO -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Estudante+de+Tecnologia+da+Informa%C3%A7%C3%A3o+%40+UNIVESP;Estagi%C3%A1ria+de+TI+na+C%C3%A2mara+Municipal+de+Jundia%C3%AD;Foco+em+An%C3%A1lise+de+Dados+Operacionais+%7C+SQL+%7C+Python;Transi%C3%A7%C3%A3o+de+Carreira%3A+Log%C3%ADstica+%2B+BackOffice+%E2%9E%94+Tecnologia" alt="Typing SVG" />
@@ -14,12 +14,11 @@
 
 ### ⚡ Sobre Mim & Visão Rápida
 
-- 🔭 **Atuação Atual:** Estagiária de Tecnologia da Informação na **Câmara Municipal de Jundiaí**, atuando com rotinas de suporte técnico, administração básica de servidores Linux e Windows Server, rotinas de backup corporativo e aplicação prática de linguagens (Python, C#, PHP, JavaScript) e bancos de dados MySQL[cite: 17].
-- 🌱 **Formação Acadêmica:** Graduanda em **Tecnologia da Informação pela UNIVESP** (previsão: 12/2027), com formações anteriores em **Logística** (Faculdade Padre Anchieta) e **Técnico em Administração** (ETEC Vasco Antônio Venchiarutti)[cite: 17].
-- 🎯 **Objetivo Profissional:** Analista de Dados Operacionais[cite: 17].
-- 💼 **Transição & Bagagem Corporativa:** Sólida trajetória corporativa anterior em **Prevenção à Fraude e BackOffice (FIS Brasil)** com gestão de chargeback, auditoria e SLAs sob regras rígidas de compliance, além de experiência em supply chain e conferência fiscal/fretes no setor de **Transportes (AGV Logística)**[cite: 17].
-- 📊 **Diferencial Técnico:** União entre a visão analítica de processos corporativos, auditoria e conciliação em Excel Avançado com automações programadas e consultas estruturadas em bases relacionais[cite: 17, 18].
-- 📫 **Como me encontrar:** [LinkedIn](https://linkedin.com/in/suzana-pereira-7a91b2197) | [pereirasuzana883@gmail.com](mailto:pereirasuzana883@gmail.com)[cite: 17].
+- 🔭 **Atuação Atual:** Estagiária de Tecnologia da Informação na **Câmara Municipal de Jundiaí**, atuando com rotinas de suporte técnico, administração básica de ambientes Linux e Windows Server, controle de backups corporativos e apoio a bancos de dados MySQL.
+- 🌱 **Formação Acadêmica:** Graduanda em **Tecnologia da Informação pela UNIVESP** (previsão: 12/2027), com formações anteriores em **Logística** (Faculdade Padre Anchieta) e **Técnico em Administração** (ETEC Vasco Antônio Venchiarutti).
+- 🎯 **Objetivo:** Analista de Dados Operacionais.
+- 💼 **Transição & Bagagem Corporativa:** Trajetória sólida no setor corporativo em **Prevenção à Fraude e BackOffice (FIS Brasil)** com gestão de chargeback, auditoria e metas de SLA sob normas rígidas de compliance, somada à experiência em supply chain e conferência fiscal/fretes na **AGV Logística**.
+- 📊 **Diferencial Técnico:** Integração entre a visão analítica de processos corporativos, auditoria e conciliação em Excel Avançado com automações em scripts e consultas em bancos relacionais.
 
 ---
 
@@ -50,7 +49,7 @@
   <img src="https://img.shields.io/badge/Git_&_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-**Sistemas Corporativos Integrados**
+**Sistemas Corporativos**
 <p align="left">
   <img src="https://img.shields.io/badge/Sistemas-TMS_|_WMS_|_ERPs_|_B2K_|_Vision-lightgrey?style=for-the-badge" alt="Sistemas Corporativos" />
 </p>
@@ -61,10 +60,10 @@
 
 | Repositório | Descrição Arquitetural | Tecnologias Principais |
 | :--- | :--- | :--- |
-| **[POO_UNIVESP](https://github.com/SuzanaBTI/POO_UNIVESP)** | Estruturação prática de classes abstratas, encapsulamento, polimorfismo dinâmico e construtores `super()`. | `Java` `POO` |
-| **[Algoritmos_Programacao_UNIVESP](https://github.com/SuzanaBTI/Algoritmos_Programacao_UNIVESP)** | Módulos semanais cobrindo lógica, laços (`for`/`while`), listas e matrizes multidimensionais. | `Python` `Lógica` |
-| **[Banco_de_Dados_UNIVESP](https://github.com/SuzanaBTI/Banco_de_Dados_UNIVESP)** | Projetos de modelagem conceitual/relacional, normalização de dados e queries SQL. | `SQL` `Modelagem Relacional` |
-| **[Pensamento_Computacional_UNIVESP](https://github.com/SuzanaBTI/Pensamento_Computacional_UNIVESP)** | Decomposição algorítmica, modelagem de fluxogramas de processos e lógica computacional. | `Lógica` `Fluxogramas` |
+| **[POO_UNIVESP](https://github.com/SuzanaBTI/POO_UNIVESP)** | Estruturação de classes abstratas, encapsulamento, polimorfismo e construtores `super()`. | `Java` `POO` |
+| **[Algoritmos_Programacao_UNIVESP](https://github.com/SuzanaBTI/Algoritmos_Programacao_UNIVESP)** | Módulos práticos semanais cobrindo estruturas condicionais, laços, listas e matrizes. | `Python` `Lógica` |
+| **[Banco_de_Dados_UNIVESP](https://github.com/SuzanaBTI/Banco_de_Dados_UNIVESP)** | Modelagem relacional, regras de normalização e elaboração de consultas SQL. | `SQL` `Modelagem Relacional` |
+| **[Pensamento_Computacional_UNIVESP](https://github.com/SuzanaBTI/Pensamento_Computacional_UNIVESP)** | Decomposição algorítmica, fluxogramas de processos e lógica computacional estruturada. | `Lógica` `Fluxogramas` |
 
 ---
 
@@ -76,7 +75,7 @@
 
 ---
 
-### 📊 Estatísticas & Linguagens Mais Utilizadas
+### 📊 Estatísticas & Atividade de Código
 
 <div align="center">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=SuzanaBTI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
@@ -85,22 +84,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuzanaBTI&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 📈 Gráfico de Atividade Geral
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuzanaBTI&theme=tokyo-night&hide_border=true" width="100%" alt="Gráfico de Atividades" />
-</p>
-
----
-
-### 🐍 Histórico de Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SuzanaBTI/SuzanaBTI/output/github-contribution-grid-snake.svg" alt="Animação da Cobrinha" />
 </p>
 
 ---
@@ -122,5 +105,5 @@
 ---
 
 <p align="center">
-  <sub>Desenvolvido com dedicação contínua em aprendizado, automação e dados. Jundiaí - SP[cite: 17].</sub>
+  <sub>Desenvolvido com foco contínuo em aprendizado, automação e dados. Jundiaí - SP.</sub>
 </p>
