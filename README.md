@@ -1,6 +1,6 @@
-<!-- BANNER SUPERIOR COM GRADIENTE VERDE-ÁGUA E AZUL -->
+<!-- BANNER SUPERIOR EM VERDE-ÁGUA E AZUL CELESTE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:5EEAD4,40:2DD4BF,75:38BDF8,100:0284C7&height=190&section=header&text=Suzana%20Pereira&fontSize=42&fontAlignY=38&desc=Tecnologia%20da%20Informa%C3%A7%C3%A3o%20%7C%20Suporte%20T%C3%A9cnico%20%7C%20An%C3%A1lise%20de%20Dados&descAlignY=62&descFontSize=16&fontColor=FFFFFF&descColor=F0FDFA" width="100%" alt="Banner Suzana Pereira"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=%235EEAD4,%232DD4BF,%2338BDF8,%230284C7&height=190&section=header&text=Suzana%20Pereira&fontSize=42&fontAlignY=38&desc=Tecnologia%20da%20Informa%C3%A7%C3%A3o%20%7C%20Suporte%20T%C3%A9cnico%20%7C%20An%C3%A1lise%20de%20Dados&descAlignY=62&descFontSize=16&fontColor=FFFFFF&descColor=F0FDFA" width="100%" alt="Banner Suzana Pereira"/>
 </p>
 
 <!-- ANIMAÇÃO DE TEXTO DIGITADO -->
@@ -14,14 +14,14 @@
 
 ### ⚡ Sobre Mim & Atuação Profissional
 
-- 💼 **Estágio em TI (Câmara Municipal de Jundiaí):** Atuação prática estruturada em três frentes operacionais[cite: 7, 18]:
-  - **Suporte Técnico & Hardware:** Montagem e substituição de componentes de computadores, instalação e configuração de periféricos (impressoras e scanners), gestão de drivers, suporte ao ecossistema Windows, navegadores (Chrome/Firefox) e ferramentas de produtividade (Pacote Office, LibreOffice e manipulação de PDFs)[cite: 18].
-  - **Infraestrutura & Servidores:** Rotinas em ambientes Linux e Windows Server, controlo básico de firewalls, contas de correio eletrónico corporativo, partilhas de rede e salvaguarda de ficheiros com ferramentas de backup estruturadas (Duplicity, NTBackup, Brazip)[cite: 18].
-  - **Programação & Dados:** Aplicação de conhecimentos práticos em Python, C#, PHP, JavaScript e suporte contínuo a bases de dados MySQL[cite: 18].
-- 🎓 **Formação:** Graduanda em **Tecnologia da Informação pela UNIVESP** (previsão: 12/2027), graduada em **Logística** (Faculdade Padre Anchieta) e com formação técnica em **Administração** (ETEC Vasco Antônio Venchiarutti)[cite: 7].
-- 🎯 **Objetivo:** Analista de Dados Operacionais[cite: 7].
-- 🏢 **Bagagem Corporativa:** Trajetória consistente no setor corporativo em **Prevenção à Fraude e BackOffice (FIS Brasil)** com gestão de chargeback, auditoria e acompanhamento de SLAs sob normas de compliance, somada à experiência em supply chain e conferência fiscal/fretes na **AGV Logística**[cite: 7].
-- 📊 **Diferencial:** Capacidade de ligar o suporte técnico do dia a dia à visão analítica de processos corporativos, automação de tarefas e modelação de dados relacionais[cite: 7, 8].
+- 💼 **Estágio em TI (Câmara Municipal de Jundiaí):** Atuação prática estruturada em três frentes operacionais[cite: 3, 16]:
+  - **Suporte Técnico & Hardware:** Montagem e substituição de componentes de computadores, instalação e configuração de periféricos (impressoras e scanners), gestão de controladores/drivers, suporte a ambientes Windows, navegadores (Chrome/Firefox) e ferramentas de produtividade (Pacote Office, LibreOffice e manipulação de ficheiros PDF)[cite: 16].
+  - **Infraestrutura & Servidores:** Rotinas em ambientes Linux e Windows Server, controlo de regras de firewall, gestão de contas de correio eletrónico, partilhas de rede e execução de cópias de segurança com ferramentas estruturadas (Duplicity, NTBackup, Brazip)[cite: 16].
+  - **Programação & Bases de Dados:** Aplicação prática de linguagens (Python, C#, PHP, JavaScript) e suporte contínuo a bases de dados MySQL[cite: 16].
+- 🎓 **Formação:** Graduanda em **Tecnologia da Informação pela UNIVESP** (previsão: 12/2027), graduada em **Logística** (Faculdade Padre Anchieta) e com formação técnica em **Administração** (ETEC Vasco Antônio Venchiarutti)[cite: 2].
+- 🎯 **Objetivo:** Analista de Dados Operacionais[cite: 2].
+- 🏢 **Bagagem Corporativa:** Trajetória consistente no setor corporativo em **Prevenção à Fraude e BackOffice (FIS Brasil)** com gestão de chargeback, auditoria e cumprimento de metas de SLA sob normas rígidas de compliance, somada à experiência em supply chain e conferência fiscal/fretes na **AGV Logística**[cite: 2].
+- 📊 **Diferencial:** Integração entre a resolução de problemas operacionais de suporte diário e a visão analítica de processos, automação de rotinas em scripts e extração de dados com SQL[cite: 2, 3].
 
 ---
 
@@ -67,7 +67,7 @@
 
 | Repositório | Descrição Arquitetural | Tecnologias Principais |
 | :--- | :--- | :--- |
-| **[POO_UNIVESP](https://github.com/SuzanaBTI/POO_UNIVESP)** | Estruturação de classes abstratas, encapsulamento, polimorfismo dinâmico e construtores `super()`. | `Java` `POO` |
+| **[POO_UNIVESP](https://github.com/SuzanaBTI/POO_UNIVESP)** | Estruturação prática de classes abstratas, encapsulamento, polimorfismo dinâmico e construtores `super()`. | `Java` `POO` |
 | **[Algoritmos_Programacao_UNIVESP](https://github.com/SuzanaBTI/Algoritmos_Programacao_UNIVESP)** | Módulos práticos semanais cobrindo estruturas condicionais, laços, listas e matrizes. | `Python` `Lógica` |
 | **[Banco_de_Dados_UNIVESP](https://github.com/SuzanaBTI/Banco_de_Dados_UNIVESP)** | Modelagem relacional, regras de normalização e elaboração de consultas SQL. | `SQL` `Modelagem Relacional` |
 | **[Pensamento_Computacional_UNIVESP](https://github.com/SuzanaBTI/Pensamento_Computacional_UNIVESP)** | Decomposição algorítmica, modelagem de fluxogramas de processos e lógica computacional estruturada. | `Lógica` `Fluxogramas` |
@@ -104,5 +104,5 @@
 ---
 
 <p align="center">
-  <sub>Construído com base em suporte operacional, infraestrutura, automação e análise de dados. Jundiaí - SP[cite: 7].</sub>
+  <sub>Construído com base em suporte operacional, infraestrutura, automação e análise de dados. Jundiaí - SP[cite: 2].</sub>
 </p>
