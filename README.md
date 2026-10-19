@@ -19,7 +19,6 @@
   - **Infraestrutura & Servidores:** Rotinas em ambientes Linux e Windows Server, controlo básico de firewalls, contas de correio eletrónico corporativo, partilhas de rede e salvaguarda de ficheiros com ferramentas de backup estruturadas (Duplicity, NTBackup, Brazip).
   - **Programação & Bases de Dados:** Aplicação de conhecimentos práticos em Python, C#, PHP, JavaScript e suporte contínuo a bases de dados MySQL.
 - 🎓 **Formação:** Graduanda em **Tecnologia da Informação pela UNIVESP** (previsão: 12/2027), graduada em **Logística** (Faculdade Padre Anchieta) e com formação técnica em **Administração** (ETEC Vasco Antônio Venchiarutti).
-- 🎯 **Objetivo:** Analista de Dados Operacionais.
 - 🏢 **Bagagem Corporativa:** Trajetória consistente no setor corporativo em **Prevenção à Fraude e BackOffice (FIS Brasil)** com gestão de chargeback, auditoria e acompanhamento de SLAs sob normas de compliance, somada à experiência em supply chain e conferência fiscal/fretes na **AGV Logística**.
 - 📊 **Diferencial:** Capacidade de ligar o suporte técnico do dia a dia à visão analítica de processos corporativos, automação de tarefas e modelação de dados relacionais.
 
