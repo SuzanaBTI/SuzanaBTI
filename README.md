@@ -67,14 +67,6 @@
 
 ---
 
-### 🏆 Troféus do GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SuzanaBTI&theme=tokyonight&no-frame=true&margin-w=6&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 📊 Estatísticas & Atividade de Código
 
 <div align="center">
