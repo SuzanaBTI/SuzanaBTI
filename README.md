@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### ⚡ Visão Rápida
+
+- 🔭 **Atuação atual:** Estagiária de TI na **Câmara Municipal de Jundiaí** (suporte técnico, infraestrutura de servidores e apoio a MySQL).
+- 🌱 **Em formação:** Graduação em **Tecnologia da Informação pela UNIVESP** (previsão 12/2027)[cite: 14].
+- 💼 **Bagagem corporativa:** Mais de 6 anos de experiência somando BackOffice / Prevenção a Fraudes (**FIS Brasil**) e Logística (**AGV**), com monitoramento de KPIs e conciliação de dados[cite: 14].
+- 🎯 **Objetivo:** Analista de Dados Operacionais / Desenvolvedora Júnior[cite: 14].
+- 📫 **Como falar comigo:** [LinkedIn](https://linkedin.com/in/suzana-pereira-7a91b2197) | [pereirasuzana883@gmail.com](mailto:pereirasuzana883@gmail.com)[cite: 14]
